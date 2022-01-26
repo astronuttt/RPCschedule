@@ -1,0 +1,2 @@
+PScheduler==3.8.1
+rpyc==5.0.1
